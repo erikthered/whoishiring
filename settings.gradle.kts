@@ -1,2 +1,2 @@
 rootProject.name = "whoishiring"
-include("backend", "scraper")
+include("common", "backend", "scraper")
